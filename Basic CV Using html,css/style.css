@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+body{
+       background-color: #eee;
+}
+
+.cotainer{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+background-color: #E4F9F5;
+
+}
+.user-photo{
+    width: 100px;
+    height: 120px;
+    border: 1px solid white;
+    border-radius: 50px;
+    float: left;
+}
+.header-bio{
+    width: 200px;
+    padding: 30px;
+float: left;
+
+}
+.header-contact{
+   
+    margin: 20px;
+    padding: 10px;
+float: right;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+header div p a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #11999e;
+}
+header div p a:hover{
+    color: orange;
+    text-decoration: underline;
+    
+}
+.clear{
+  clear: both;  
+}
+.hr{
+    width: 100%;
+    margin: 20px auto;
+    border: solid black 3px;
+    border-bottom: none;
+}
